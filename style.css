@@ -4,10 +4,11 @@ body{
     padding: 0px;
 }
 .container{
-    width: 80%;
-    margin: auto;
+    /* width: 1000px;
+    margin: auto; */
     border-radius: 10px;
     background-color: antiquewhite;
+    padding: 10px 100px;
 }
 .omo{
     padding: 10px;
