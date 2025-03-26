@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.omo{
+    padding: 10px;
+}
+h1{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    margin: 0%;
+    text-align: center;
+}
+.firstlayer{
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+h2{
+    color: rgb(226, 43, 156);
+}
+.secondlayer{
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+#thisone{
+    color: rgb(226, 43, 156);
+}
+.thirdlayer{
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+footer{
+    background-color: rgb(0, 153, 255);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
